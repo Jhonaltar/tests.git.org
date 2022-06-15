@@ -1,3 +1,7 @@
+function nada() {
+  console.log("nada");
+}
+
 function sumar(a, b) {
   console.log(a + b);
 }
