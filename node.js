@@ -3,3 +3,9 @@ function sumar(a, b) {
 }
 
 sumar(4, 4);
+
+function restar() {
+  console.log(8 - 5);
+}
+
+restar();
