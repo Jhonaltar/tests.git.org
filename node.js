@@ -13,3 +13,5 @@ function restar() {
 }
 
 restar();
+
+console.log("Cambios 1");
