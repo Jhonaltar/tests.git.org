@@ -16,3 +16,5 @@ restar();
 
 console.log("Cambios 1");
 console.log("Cambios 1");
+
+console.log("esto es un log");
