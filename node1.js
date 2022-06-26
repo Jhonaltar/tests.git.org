@@ -7,4 +7,4 @@ restar();
 console.log("Cambios 1");
 console.log("Cambios 1");
 
-console.log("Logs asdasfjhsdfksfdsf");
+console.log("esto es un log");
